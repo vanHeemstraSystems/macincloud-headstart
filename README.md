@@ -7,7 +7,7 @@ Dear Willem van Heemstra,
  
 Thank you for choosing our MacinCloud service! We have received your payment and activated your MacinCloud Account. Your account information is listed below. Please make sure to read this whole email and follow the instructions carefully to ensure a smooth user experience.
 
-YOUR SERVER INFORMATION
+***YOUR SERVER INFORMATION***
 
 Your server hostname is: ***FF041.macincloud.com***
 
@@ -60,13 +60,13 @@ The most common causes for connection difficulties are:
 Your office or home firewall/antivirus is blocking the required remote connection port. (Port 6000 should be open)
 Incorrect login name and password combination. Your Mac login information is listed above in the "Your Server Information" section. Your Mac server login username is not the same as your MacinCloud account email. Your account email allows you to access the User Portal and manage different services, and your server information allows you to access the actual servers.
 
-# ACCOUNT AND BILLING MANAGEMENT
+***ACCOUNT AND BILLING MANAGEMENT***
 
 Please access the User Portal with your account email to manage your billing information and access additional features.
 
 To quickly manage your subscription and review your billing information, including plans and invoices, please click the following link: https://macincloud.recurly.com/account/pVsK2rzQbJz3otVbqcLsS3mxYDDcDwxL
 
-# WE ARE HERE TO HELP
+***WE ARE HERE TO HELP***
 
 Our website features a Knowledge Base to answer your common questions. If you need further help, please issue a support request at our Support Portal and we will get back to you within the next 24 hours, if not sooner.
  
