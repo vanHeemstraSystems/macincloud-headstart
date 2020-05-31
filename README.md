@@ -10,8 +10,11 @@ Thank you for choosing our MacinCloud service! We have received your payment and
 YOUR SERVER INFORMATION
 
 Your server hostname is: ***FF041.macincloud.com***
+
 Your Mac username is: ***user924495***
+
 Your Mac password is: ***- secret -***
+
 Your Mac IP is: ***195.82.55.41***
 
 Please review account instructions below carefully
